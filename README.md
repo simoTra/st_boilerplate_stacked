@@ -1,6 +1,11 @@
-# stacked_app
+# stacked_app_boilerplate
 
-A new Flutter project.
+Just a stacked boilerplate with some packages added:
+
+ - shared_preferences
+ - dio
+ - logger
+ - pretty_dio_logger
 
 ## Getting Started
 
